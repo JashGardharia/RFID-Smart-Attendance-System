@@ -1,4 +1,4 @@
-# RFID Smart Attendance System
+# 📜 RFID Smart Attendance System 📜
 
 An advanced IoT-based attendance and surveillance system built using ESP32 and RFID technology. The system automates attendance tracking, prevents proxy attendance using image verification, sends real-time notifications via Telegram, logs data to Google Sheets, and performs automated report generation and email delivery.
 
